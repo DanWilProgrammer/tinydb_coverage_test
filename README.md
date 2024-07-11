@@ -8,7 +8,7 @@ URL: https://github.com/msiemens/tinydb
 
 Number of lines of code and the tool used to count it: 2710 loc (Using Lizard)
 
-![image](https://github.com/DanWilProgrammer/tinydb_coverage_test/assets/141411600/f93ada47-3353-4481-9345-8def4f67dec6)
+![image](https://github.com/DanWilProgrammer/tinydb_coverage_test/assets/141411600/f2e679b1-f217-452b-b549-9633fce54aa3)
 
 Programming language: Python
 
