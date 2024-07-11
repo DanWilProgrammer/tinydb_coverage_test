@@ -2,19 +2,20 @@
 
 ## Project chosen
 
-Name: <TODO>
+Name: Tinydb
 
-URL: <TODO>
+URL: https://github.com/msiemens/tinydb
 
-Number of lines of code and the tool used to count it: <TODO>
+Number of lines of code and the tool used to count it: 2710 loc (Using Lizard)
 
-Programming language: <TODO>
+Programming language: Python
 
 ## Coverage measurement with existing tool
 
-<Inform the name of the existing tool that was executed and how it was executed>
+Tool:
+Using [Coverage.py](https://github.com/nedbat/coveragepy) and ran the command "coverage report" inside of Debian CLI
 
-<Show the coverage results provided by the existing tool with a screenshot>
+![image](https://github.com/DanWilProgrammer/tinydb_coverage_test/assets/141411600/24759563-690c-4850-b60f-01d7782c6315)
 
 ## Coverage improvement
 
